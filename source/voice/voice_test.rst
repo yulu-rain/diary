@@ -43,22 +43,22 @@ CRY
 
 - 测试整体界面
 
-.. figure:: ../images/voice/voice_test/cry.png
+.. figure:: ../images/voice/voice_test/cry.PNG
     :align: center
 
 - A2DP
 
-.. figure:: ../images/voice/voice_test/cry1.png
+.. figure:: ../images/voice/voice_test/cry1.PNG
     :align: center
 
 - Mic下行（HFP）
 
-.. figure:: ../images/voice/voice_test/cry2.png
+.. figure:: ../images/voice/voice_test/cry2.PNG
     :align: center
 
 - Mic上行
 
-.. figure:: ../images/voice/voice_test/cry3.png
+.. figure:: ../images/voice/voice_test/cry3.PNG
     :align: center
 
 
