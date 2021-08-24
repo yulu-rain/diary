@@ -12,6 +12,7 @@
 #
 # import os
 # import sys
+# import furo
 # sys.path.insert(0, os.path.abspath('.'))
 
 
@@ -58,6 +59,8 @@ source_suffix = {
 #html_theme = 'sphinx_rtd_theme'
 #html_theme = 'insegel'
 html_theme = 'furo'
+
+html_theme_path = ['.']  
 
 html_theme_options = {
 # -- Options for sphinx_rtd_theme--------------------------------------------
