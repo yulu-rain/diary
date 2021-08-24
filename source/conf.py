@@ -60,7 +60,7 @@ source_suffix = {
 #html_theme = 'insegel'
 html_theme = 'furo'
 
-html_theme_path = ['.']  
+
 
 html_theme_options = {
 # -- Options for sphinx_rtd_theme--------------------------------------------
