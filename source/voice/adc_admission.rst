@@ -60,7 +60,7 @@
 4. 附件
 ==============
 
-- 音源文件：`sweep_log_48k_3db.wav`_
+- 音源文件：``sweep_log_48k_3db.wav``
 
 
 MIC密封性
@@ -200,4 +200,3 @@ CRY 连接耳机 HFP 模式，使用 Adobe Audition CC 进行录音。
 
 
 
-.. _`sweep_log_48k_3db.wav`: ../../../attachment/adc_mission/sweep_log_48k_3db.wav

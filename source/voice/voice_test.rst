@@ -33,7 +33,7 @@ CRY
 
     CRY 测试箱 **输入** 连接蓝牙耳机，CRY 测试箱 **输出** 连接人工嘴对准样机mic端。
     
-    测试模板可参照 `T8pro杰理6972A.zip`_
+    测试模板可参照 ``T8P6972A.zip``
 
 .. figure:: ../images/voice/voice_test/cry_con.jpg
     :align: center
@@ -133,4 +133,3 @@ AP
 .. caution::
     若出现高频衰减问题，请留意 SDK 中 CONST_SPLIT_FILTER_MODE 是否开启 ，与 AEC 初始化时 AGC_echo_look_ahead 参数是否为 0 。
 
-.. _`T8pro杰理6972A.zip`: ../../../attachment/voice_test/T8pro杰理6972A.zip
